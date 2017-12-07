@@ -14,3 +14,4 @@ I opened my terminal to code on Thu Dec  7 11:57:36 CST 2017
  /n I opened my terminal to code on Thu Dec  7 11:58:42 CST 2017
 /n
 I openedi/n/n my terminal to code on Thu Dec  7 12:00:54 CST 2017
+I openedi/n/n my terminal to code on Thu Dec  7 12:01:54 CST 2017
