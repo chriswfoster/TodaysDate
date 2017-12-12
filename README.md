@@ -1,5 +1,5 @@
 I also like linux bash scripting :)
-This file tracks server backups and has has some bash scripting toys to make this happen.
+This file tracks server backups. I'm using some bash scripting toys to make this happen.
 
 I opened my terminal to code on Mon Dec 11 08:29:48 CST 2017
 
@@ -18,3 +18,5 @@ Cron job completed on Tue Dec 12 14:00:00 CST 2017, server backup complete.
 I opened my terminal to code on Tue Dec 12 14:33:59 CST 2017
 
 I opened my terminal to code on Tue Dec 12 15:58:41 CST 2017
+
+I opened my terminal to code on Tue Dec 12 16:27:05 CST 2017
