@@ -46,3 +46,7 @@ I opened my terminal to code on Fri Dec 15 08:49:05 CST 2017
 Cron job completed on Fri Dec 15 09:00:00 CST 2017, server backup complete.
 
 Cron job completed on Fri Dec 15 14:00:04 CST 2017, server backup complete.
+
+I opened my terminal to code on Fri Dec 15 19:21:21 CST 2017
+
+I opened my terminal to code on Sun Dec 17 14:30:36 CST 2017
