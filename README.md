@@ -84,3 +84,5 @@ I opened my terminal to code on Fri Dec 29 11:45:11 CST 2017
 I opened my terminal to code on Tue Jan  2 08:35:51 CST 2018
 
 I opened my terminal to code on Tue Jan  2 08:48:10 CST 2018
+
+Cron job completed on Tue Jan  2 09:00:00 CST 2018, server backup complete.
