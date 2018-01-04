@@ -98,3 +98,5 @@ Cron job completed on Wed Jan  3 09:00:00 CST 2018, server backup complete.
 Cron job completed on Wed Jan  3 14:00:01 CST 2018, server backup complete.
 
 I opened my terminal to code on Wed Jan  3 17:13:31 CST 2018
+
+Cron job completed on Thu Jan  4 09:00:00 CST 2018, server backup complete.
