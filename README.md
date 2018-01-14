@@ -154,3 +154,7 @@ Cron job completed on Fri Jan 12 09:00:01 CST 2018, server backup complete.
 I opened my terminal to code on Fri Jan 12 09:28:40 CST 2018
 
 Cron job completed on Fri Jan 12 14:00:00 CST 2018, server backup complete.
+
+I opened my terminal to code on Sat Jan 13 15:59:01 CST 2018
+
+I opened my terminal to code on Sat Jan 13 21:20:26 CST 2018
