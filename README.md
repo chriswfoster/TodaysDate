@@ -166,3 +166,7 @@ I opened my terminal to code on Sat Jan 13 22:42:00 CST 2018
 I opened my terminal to code on Sat Jan 13 23:02:43 CST 2018
 
 I opened my terminal to code on Sat Jan 13 23:44:05 CST 2018
+
+I opened my terminal to code on Sun Jan 14 01:02:05 CST 2018
+
+I opened my terminal to code on Sun Jan 14 01:15:01 CST 2018
