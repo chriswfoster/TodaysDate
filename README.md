@@ -170,3 +170,5 @@ I opened my terminal to code on Sat Jan 13 23:44:05 CST 2018
 I opened my terminal to code on Sun Jan 14 01:02:05 CST 2018
 
 I opened my terminal to code on Sun Jan 14 01:15:01 CST 2018
+
+Cron job completed on Wed Jan 17 14:00:00 CST 2018, server backup complete.
