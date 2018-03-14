@@ -360,3 +360,11 @@ Cron job completed on Mon Mar 12 14:00:32 CDT 2018, server backup complete.
 Cron job completed on Tue Mar 13 09:00:00 CDT 2018, server backup complete.
 
 Cron job completed on Tue Mar 13 14:00:00 CDT 2018, server backup complete.
+
+I opened my terminal to code on Wed Mar 14 07:51:03 CDT 2018
+
+I opened my terminal to code on Wed Mar 14 07:51:03 CDT 2018
+
+I opened my terminal to code on Wed Mar 14 07:51:45 CDT 2018
+
+Cron job completed on Wed Mar 14 09:00:00 CDT 2018, server backup complete.
