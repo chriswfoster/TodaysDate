@@ -396,3 +396,5 @@ Cron job completed on Thu Mar 22 09:00:00 CDT 2018, server backup complete.
 Cron job completed on Thu Mar 22 14:00:00 CDT 2018, server backup complete.
 
 Cron job completed on Fri Mar 23 14:00:00 CDT 2018, server backup complete.
+
+I opened my terminal to code on Mon Mar 26 11:06:56 CDT 2018
