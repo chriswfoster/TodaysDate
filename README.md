@@ -430,3 +430,19 @@ I opened my terminal to code on Thu Mar 29 10:22:05 CDT 2018
 Cron job completed on Thu Mar 29 14:00:01 CDT 2018, server backup complete.
 
 Cron job completed on Fri Mar 30 14:00:00 CDT 2018, server backup complete.
+
+Cron job completed on Wed Apr  4 09:00:00 CDT 2018, server backup complete.
+
+I opened my terminal to code on Wed Apr  4 10:29:45 CDT 2018
+
+I opened my terminal to code on Wed Apr  4 10:29:45 CDT 2018
+
+I opened my terminal to code on Wed Apr  4 10:56:10 CDT 2018
+
+Cron job completed on Wed Apr  4 14:00:13 CDT 2018, server backup complete.
+
+Cron job completed on Mon Apr  9 09:00:00 CDT 2018, server backup complete.
+
+I opened my terminal to code on Mon Apr  9 11:26:15 CDT 2018
+
+Cron job completed on Mon Apr  9 14:00:00 CDT 2018, server backup complete.
