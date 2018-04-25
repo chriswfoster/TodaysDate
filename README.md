@@ -504,3 +504,7 @@ Cron job completed on Mon Apr 23 14:00:01 CDT 2018, server backup complete.
 Cron job completed on Tue Apr 24 09:00:00 CDT 2018, server backup complete.
 
 Cron job completed on Tue Apr 24 14:00:02 CDT 2018, server backup complete.
+
+I opened my terminal to code on Tue Apr 24 16:03:27 CDT 2018
+
+I opened my terminal to code on Tue Apr 24 19:57:34 CDT 2018
