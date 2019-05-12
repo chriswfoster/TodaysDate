@@ -850,3 +850,5 @@ Cron job completed on Wed May  8 09:00:04 CDT 2019, server backup complete.
 Cron job completed on Wed May  8 14:00:07 CDT 2019, server backup complete.
 
 Cron job completed on Sun May 12 09:00:04 CDT 2019, server backup complete.
+
+Cron job completed on Sun May 12 14:00:04 CDT 2019, server backup complete.
