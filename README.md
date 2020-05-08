@@ -956,3 +956,5 @@ Cron job completed on Fri Apr 24 14:00:00 CDT 2020, server backup complete.
 Cron job completed on Mon Apr 27 09:00:00 CDT 2020, server backup complete.
 
 Cron job completed on Sun May  3 14:00:00 CDT 2020, server backup complete.
+
+Cron job completed on Fri May  8 14:00:00 CDT 2020, server backup complete.
